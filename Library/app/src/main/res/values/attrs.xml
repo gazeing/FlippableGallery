@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlipperView">
+        <attr name="frontCardLayout" format="reference"/>
+        <attr name="backCardLayout" format="reference"/>
+    </declare-styleable>
+</resources>
